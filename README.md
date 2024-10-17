@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Alpakin 👋
 
 I'm an 18-year-old web developer and student at Politecnico di Torino. I enjoy working at the intersection of technology and creativity, pushing the boundaries of web development with tools like **React**, **Next.js**, **Tailwind CSS**, **GSAP**, **Framer Motion**, and **Three.js**.
 
@@ -11,25 +11,25 @@ I'm an 18-year-old web developer and student at Politecnico di Torino. I enjoy w
 ### 🌱 What I'm Learning
 I'm constantly expanding my knowledge, particularly in:
 - **3D web development**: Creating immersive experiences with **Three.js**.
-- **Physics and Engineering**: Through textbooks like "Introduction to Electrodynamics" and "Electronics Circuits and Systems," I'm gaining foundational knowledge in electrical and mechanical systems.
 - **AI Development**: I'm designing my own intelligent systems inspired by the interaction with AI models like this one.
 
 ### 📚 Current Projects
 - **Portfolio for a Swiss artist**: A creative imaginary portfolio showcasing artistic works using modern web technologies.
 - **Three.js Experiments**: Randomly generated dog models in a 3D scene with ripple effects—merging perspective and orthographic cameras.
 
-### 🛠 Technologies I Work With
-- **Frontend**: React, Next.js, Tailwind CSS, GSAP, Anime.js, Framer Motion
+### 🛠 Technologies & Skills
+- **Frontend**: React, Next.js, Tailwind CSS, GSAP, Anime.js, Framer Motion, Webflow, WordPress
 - **3D Development**: Three.js, React Three Fiber
-- **Tools**: Vite, Visual Studio Code, Git
+- **Tools**: Postman, MongoDB, Vite, Visual Studio Code, Git
 
 ### 📈 My Approach
-I'm a developer who values discipline, whether it’s in coding, health, or personal growth. I believe in honing my craft through consistent practice, research, and self-reflection. My projects are driven by a passion for innovation and a commitment to quality, always striving to bridge the gap between creativity and technology.
+I'm a developer who values discipline, whether it’s in coding or personal growth. I believe in honing my craft through consistent practice, research, and self-reflection. My projects are driven by a passion for innovation and a commitment to quality, always striving to bridge the gap between creativity and technology.
 
 ### 🎯 Fun Facts About Me
-- I like Deadcells and its rogue-like gameplay style, definitely one of my favourites.
+- I'm a big fan of **Dead Cells**, a fast-paced roguelike game that keeps me sharp.
 - I enjoy experimenting with new frameworks and design patterns, always looking for ways to optimize and enhance my work.
 - I have a knack for refining small details—like ensuring animations don't reset after they end (thanks to **animation-fill-mode: forwards**)!
 
 ### Let's Connect!
 Feel free to check out my repositories, contribute, or reach out if you'd like to collaborate on something cool!
+
