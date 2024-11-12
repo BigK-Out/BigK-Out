@@ -1,4 +1,4 @@
-# Hi there! I'm Alpakin 👋
+# Hi there! I'm Mürsel Alpakin OLGUN 👋
 
 I'm an 18-year-old web developer and student at Politecnico di Torino. I enjoy working at the intersection of technology and creativity, pushing the boundaries of web development with tools like **React**, **Next.js**, **Tailwind CSS**, **GSAP**, **Framer Motion**, and **Three.js**.
 
