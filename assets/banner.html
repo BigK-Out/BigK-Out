@@ -1,0 +1,26 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=IBM+Plex+Mono:wght@400;500&display=block" rel="stylesheet">
+<style>
+:root{--paper:#f3efe6;--ink:#141414;--accent:#ff4d1a}
+*{margin:0;box-sizing:border-box}
+body{width:1500px;height:440px;background:var(--paper);font-family:"IBM Plex Mono",monospace;color:var(--ink);overflow:hidden;position:relative}
+/* faint grid, like the strip's paper */
+body::before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(20,20,20,.06) 1px,transparent 1px),linear-gradient(90deg,rgba(20,20,20,.06) 1px,transparent 1px);background-size:40px 40px}
+.panel{position:absolute;left:70px;right:84px;top:62px;bottom:70px;border:5px solid var(--ink);background:var(--paper);box-shadow:16px 16px 0 var(--accent);display:flex;flex-direction:column;justify-content:space-between;padding:22px 34px 18px}
+.row{display:flex;justify-content:space-between;font-size:17px;letter-spacing:.18em;text-transform:uppercase}
+.word{font-family:Anton,Impact,sans-serif;font-size:232px;line-height:.82;letter-spacing:.01em;text-align:center;margin-top:-6px}
+.shape{position:absolute;border:5px solid var(--ink)}
+.r1{width:72px;height:72px;background:var(--accent);right:22px;top:8px;transform:rotate(14deg)}
+.c1{width:64px;height:64px;border-radius:50%;background:var(--ink);left:34px;bottom:30px}
+.d1{width:46px;height:46px;background:#f7d64a;left:420px;top:26px;transform:rotate(45deg)}
+.dot{display:inline-block;width:12px;height:12px;border-radius:50%;background:var(--accent);margin-right:10px;vertical-align:1px}
+</style></head><body>
+<div class="shape d1"></div>
+<div class="panel">
+  <div class="row"><span><span class="dot"></span>Studio</span><span>Development &amp; design</span></div>
+  <div class="word">ALPAKIN</div>
+  <div class="row"><span>Web · 3D · AI</span><span>Est. 2026</span></div>
+</div>
+<div class="shape r1"></div>
+<div class="shape c1"></div>
+</body></html>

@@ -1,4 +1,4 @@
-### Studio Alpakin
+<img src="assets/banner.png" alt="ALPAKIN — Studio Alpakin, development and design. Web, 3D, AI. Est. 2026." width="100%">
 
 I build web apps, interactive 3D sites and AI products with **Studio Alpakin**, a development and design studio.
 
