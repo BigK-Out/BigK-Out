@@ -1,6 +1,6 @@
 ### Studio Alpakin
 
-I build web apps, interactive 3D sites and AI products with **Studio Alpakin**, a development and design studio of four.
+I build web apps, interactive 3D sites and AI products with **Studio Alpakin**, a development and design studio.
 
 #### Featured
 
