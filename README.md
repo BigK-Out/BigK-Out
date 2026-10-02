@@ -33,6 +33,12 @@ Next.js · TypeScript · Supabase · OpenAI · Stripe · [Live app ↗](https://
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
+#### GitHub stats
+
+<p align="center">
+<img src="https://github-readme-stats-wine-eta-65.vercel.app/api?username=BigK-Out&count_private=true&show_icons=true&theme=radical" alt="GitHub stats for BigK-Out, including private contributions">
+</p>
+
 #### Get in touch
 
 [akintosh06@gmail.com](mailto:akintosh06@gmail.com)
