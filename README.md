@@ -41,6 +41,7 @@ Next.js · TypeScript · Supabase · OpenAI · Stripe · [Live app ↗](https://
 
 <p align="center">
 <img src="https://github-readme-stats-wine-eta-65.vercel.app/api?username=BigK-Out&count_private=true&show_icons=true&theme=radical" alt="GitHub stats for BigK-Out, including private contributions">
+<img src="https://github-readme-stats-wine-eta-65.vercel.app/api/top-langs?username=BigK-Out&layout=compact&langs_count=8&theme=radical" alt="Most used languages across BigK-Out's repositories">
 </p>
 
 #### Get in touch
