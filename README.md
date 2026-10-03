@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="ALPAKIN — Studio Alpakin, development and design. Web, 3D, AI. Est. 2026." width="100%">
+<img src="assets/banner-orbit.png" alt="ALPAKIN — Studio Alpakin, development and design. Web, 3D, AI. Est. 2026." width="100%">
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=26&duration=3000&pause=1500&color=FF4D1A&center=true&vCenter=true&width=700&height=50&lines=Building+the+future+with+web3" alt="Building the future with web3">
