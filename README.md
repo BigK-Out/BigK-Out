@@ -8,23 +8,20 @@ I build web apps, interactive 3D sites and AI products with **Studio Alpakin**, 
 
 #### Featured
 
-**[DeckMind](https://github.com/BigK-Out/Deckmind-Showcase)**: lecture slides in, flashcards, quizzes and an exam plan out. Built by the team over four months.
+**[DeckMind](https://github.com/BigK-Out/Deckmind-Showcase)**: lecture slides in, flashcards, quizzes and an exam plan out. Built by the team over four months. Source is private.
 Next.js · TypeScript · Supabase · OpenAI · Stripe · [Live app ↗](https://deckmind-puce.vercel.app)
 
-**[Cosmos](https://github.com/BigK-Out/cosmosapp)**: a local-first notes app. Markdown notes, handwriting, PDF annotation and a calendar, all kept as plain files in a folder you own.
-Tauri 2 · Rust · SvelteKit · TypeScript
+#### 📂 Open source
 
-**[The Artist](https://github.com/BigK-Out/The-Artist)**: a portfolio for an imaginary abstract artist, with an interactive Three.js hero and scroll-driven reveals.
-React · Three.js · GSAP · Framer Motion · [Live site ↗](https://the-artist.vercel.app)
-
-**[dogs-gold](https://github.com/BigK-Out/dogs-gold)**: three 3D worlds of dogs, from luxury to the streets. Each has its own instrument to inspect a dog with and a document it reveals.
-React Three Fiber · Three.js · GLSL · [Live site ↗](https://bigk-out.github.io/dogs-gold/)
-
-**[COLOR](https://github.com/BigK-Out/color-community)**: a palette community dressed as a paint counter. Mix palettes by colour harmony, publish them as paint chips and heart other people's.
-Nuxt 4 · Vue · TypeScript · Supabase
-
-**[ZortGPT](https://github.com/BigK-Out/chatgpt-clone)**: a clone of the ChatGPT launch page, extended with a tokenizer toy, a chat demo with personalities and a command palette.
-HTML · Tailwind CSS · JavaScript
+| Repo | What it does | Stack |
+| --- | --- | --- |
+| **[cosmosapp](https://github.com/BigK-Out/cosmosapp)** | Local-first notes app: Markdown notes, handwriting, PDF annotation and a calendar, all kept as plain files in a folder you own | Tauri 2 · Rust · SvelteKit |
+| **[clashroyalebot](https://github.com/BigK-Out/clashroyalebot)** | A bot that plays Clash Royale from a phone's screen: recognizes every enemy card from video and plays Hog 2.6 by strategy-guide rules | Rust · Python · PyTorch · ONNX |
+| **[The-Artist](https://github.com/BigK-Out/The-Artist)** | Portfolio for an imaginary abstract artist, with an interactive Three.js hero and scroll-driven reveals · [Live ↗](https://the-artist.vercel.app) | React · Three.js · GSAP |
+| **[dogs-gold](https://github.com/BigK-Out/dogs-gold)** | Three 3D worlds of dogs, from luxury to the streets, each with its own instrument to inspect a dog · [Live ↗](https://bigk-out.github.io/dogs-gold/) | React Three Fiber · GLSL |
+| **[color-community](https://github.com/BigK-Out/color-community)** | COLOR: a palette community dressed as a paint counter; mix palettes by colour harmony and publish them as paint chips | Nuxt 4 · Vue · Supabase |
+| **[newsapp1](https://github.com/BigK-Out/newsapp1)** | ForPeople News: an independent local-news site with a risograph-print look and a password-protected newsroom for editors | Next.js · TypeScript · MongoDB |
+| **[chatgpt-clone](https://github.com/BigK-Out/chatgpt-clone)** | ZortGPT: the ChatGPT launch page, extended with a tokenizer toy, a chat demo with personalities and a command palette | HTML · Tailwind CSS · JavaScript |
 
 #### Tech stack
 
